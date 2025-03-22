@@ -1,0 +1,9 @@
+The purpose of this level is to introduce opening file names with spaces !
+
+Pretty straight forward - put the name of the file in quotes
+
+Ex:
+
+```
+$ cat "spaces in this filename"
+```
